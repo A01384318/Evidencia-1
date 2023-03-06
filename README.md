@@ -91,5 +91,8 @@ Las varibles utilizadoas para el funcionamiento de esta simulacion son:
 ## Proceso de simulacion
 El procesod de simulacion funciona por medio de la catualizacion de los estados de los agentes, el cual se define por el numero de generaciones y por el tamaño con el del grid el cual define tambien el numero de agentes que se van a simular.
 
+## GITHUB
+https://github.com/A01384318/Evidencia-1.git
+
 ## Resultados
 Los resultados obtienidos de la simulacion se pueden visualizar por medio de graficas, las cuales al observalros podemos ver como al principio la simulacion empieza con muchos agentes vivos los cuales en las primeras simulaciones se van infectado y despues mueren, despues de esta primeras generacions la poblacion va aumentadno hasta alcanzar una poblacion estable que varia de foma  muy pequeña.
